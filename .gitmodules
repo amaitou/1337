@@ -1,0 +1,3 @@
+[submodule "Cursus/Libft"]
+	path = Cursus/Libft
+	url = https://github.com/amaitou/Libft
