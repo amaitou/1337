@@ -1,3 +1,6 @@
 [submodule "Cursus/Libft"]
 	path = Cursus/Libft
 	url = https://github.com/amaitou/Libft
+[submodule "Cursus/ft_printf"]
+	path = Cursus/ft_printf
+	url = git@github.com:amaitou/ft_printf.git
