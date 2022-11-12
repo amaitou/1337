@@ -4,3 +4,6 @@
 [submodule "Cursus/ft_printf"]
 	path = Cursus/ft_printf
 	url = https://github.com/amaitou/ft_printf
+[submodule "Cursus/get_next_line"]
+	path = Cursus/get_next_line
+	url = https://github.com/amaitou/get_next_line
