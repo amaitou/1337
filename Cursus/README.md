@@ -5,6 +5,8 @@
 ---
 # Cursus
 
+> Make it work, make it right and make it fast - Kent Beck
+
 42’s `curriculum` is the result of long years of continuous, never stopping improvement.
 As of today, the `curriculum` features a corpus of more than 100 project of various difficulty that covers many aspects of computer science (Security, Web Dev .. so on). The `curriculum` is designed to last 3 to 3.5 years and often features 2 internships.
 
@@ -24,10 +26,16 @@ The `curriculum` at 42 starts with the core `curriculum`. This experience sets t
 
 # Stats
 
+* **42 Profile Card**
+
 [![amait-ou's 42 stats](https://badge.mediaplus.ma/darkblue/amait-ou)](https://github.com/oakoudad/badge42)
+
+* **Validated Projects**
 
 > [Libft](https://github.com/amaitou/Libft)
 
 > [ft_printf](https://github.com/amaitou/ft_printf)
 
 > [get_next_line](https://github.com/amaitou/get_next_line)
+
+---
