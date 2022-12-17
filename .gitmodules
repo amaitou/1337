@@ -7,3 +7,6 @@
 [submodule "Cursus/get_next_line"]
 	path = Cursus/get_next_line
 	url = https://github.com/amaitou/get_next_line
+[submodule "Cursus/Born2beRoot"]
+	path = Cursus/Born2beRoot
+	url = https://github.com/amaitou/Born2beRoot
