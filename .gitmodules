@@ -10,3 +10,6 @@
 [submodule "Cursus/Born2beRoot"]
 	path = Cursus/Born2beRoot
 	url = https://github.com/amaitou/Born2beRoot
+[submodule "Cursus/Minitalk"]
+	path = Cursus/Minitalk
+	url = git@github.com:amaitou/Minitalk.git
