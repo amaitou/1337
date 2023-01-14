@@ -13,3 +13,6 @@
 [submodule "Cursus/Born2beRoot"]
 	path = Cursus/Born2beRoot
 	url = https://github.com/amaitou/Born2beRoot
+[submodule "Cursus/42Exams"]
+	path = Cursus/42Exams
+	url = https://github.com/amaitou/42Exams
