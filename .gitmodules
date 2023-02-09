@@ -16,3 +16,6 @@
 [submodule "Cursus/42Exams"]
 	path = Cursus/42Exams
 	url = https://github.com/amaitou/42Exams
+[submodule "Cursus/so_long"]
+	path = Cursus/so_long
+	url = https://github.com/amaitou/so_long

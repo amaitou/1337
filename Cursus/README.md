@@ -33,3 +33,5 @@ The `curriculum` at 42 starts with the core `curriculum`. This experience sets t
 > [Born2beRoot](https://github.com/amaitou/Born2beRoot)
 
 > [Minitalk](https://github.com/amaitou/Minitalk)
+
+> [so_long](https://github.com/amaitou/so_long)
