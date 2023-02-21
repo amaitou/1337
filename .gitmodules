@@ -19,3 +19,6 @@
 [submodule "Cursus/so_long"]
 	path = Cursus/so_long
 	url = https://github.com/amaitou/so_long
+[submodule "Cursus/push_swap"]
+	path = Cursus/push_swap
+	url = git@github.com:amaitou/push_swap.git
