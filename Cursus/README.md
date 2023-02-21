@@ -35,3 +35,5 @@ The `curriculum` at 42 starts with the core `curriculum`. This experience sets t
 > [Minitalk](https://github.com/amaitou/Minitalk)
 
 > [so_long](https://github.com/amaitou/so_long)
+
+> [push_swap](https://github.com/amaitou/push_swap)
