@@ -22,3 +22,6 @@
 [submodule "Cursus/push_swap"]
 	path = Cursus/push_swap
 	url = git@github.com:amaitou/push_swap.git
+[submodule "Cursus/Philosophers"]
+	path = Cursus/Philosophers
+	url = git@github.com:amaitou/Philosophers.git

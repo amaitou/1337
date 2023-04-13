@@ -37,3 +37,5 @@ The `curriculum` at 42 starts with the core `curriculum`. This experience sets t
 > [so_long](https://github.com/amaitou/so_long)
 
 > [push_swap](https://github.com/amaitou/push_swap)
+
+> [Philosophers](https://github.com/amaitou/Philosophers)
