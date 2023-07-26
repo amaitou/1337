@@ -41,3 +41,5 @@ The `curriculum` at 42 starts with the core `curriculum`. This experience sets t
 > [Philosophers](https://github.com/amaitou/Philosophers)
 
 > [Minishell](https://github.com/amaitou/Minishell)
+
+> [NetPractice](https://github.com/amaitou/NetPractice)

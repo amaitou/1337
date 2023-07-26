@@ -28,3 +28,6 @@
 [submodule "Cursus/Minishell"]
 	path = Cursus/Minishell
 	url = git@github.com:amaitou/Minishell.git
+[submodule "Cursus/NetPractice"]
+	path = Cursus/NetPractice
+	url = https://github.com/amaitou/NetPractice
