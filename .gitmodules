@@ -31,3 +31,6 @@
 [submodule "Cursus/NetPractice"]
 	path = Cursus/NetPractice
 	url = https://github.com/amaitou/NetPractice
+[submodule "Cursus/CPP-Modules"]
+	path = Cursus/CPP-Modules
+	url = https://github.com/amaitou/CPP-Modules

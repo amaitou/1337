@@ -43,3 +43,5 @@ The `curriculum` at 42 starts with the core `curriculum`. This experience sets t
 > [Minishell](https://github.com/amaitou/Minishell)
 
 > [NetPractice](https://github.com/amaitou/NetPractice)
+
+> [CPP Modules](https://github.com/amaitou/CPP-Modules)
