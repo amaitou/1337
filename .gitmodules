@@ -31,3 +31,6 @@
 [submodule "Cursus/CPP-Modules"]
 	path = Cursus/CPP-Modules
 	url = https://github.com/amaitou/CPP-Modules
+[submodule "Cursus/42Exams"]
+	path = Cursus/42Exams
+	url = https://github.com/amaitou/42Exams
