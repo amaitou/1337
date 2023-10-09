@@ -34,3 +34,6 @@
 [submodule "Cursus/42Exams"]
 	path = Cursus/42Exams
 	url = https://github.com/amaitou/42Exams
+[submodule "Cursus/Cub3d"]
+	path = Cursus/Cub3d
+	url = https://github.com/amaitou/Cub3d/
