@@ -37,3 +37,6 @@
 [submodule "Cursus/Cub3d"]
 	path = Cursus/Cub3d
 	url = https://github.com/amaitou/Cub3d/
+[submodule "Cursus/Inception"]
+	path = Cursus/Inception
+	url = git@github.com:amaitou/Inception.git
