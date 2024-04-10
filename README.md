@@ -15,7 +15,7 @@ If you read this, you might get confused about how the students learn. well, at 
 # The Process
 > Both booking places and passing the evaluations will be done online.
 
-The process is taken to attend the school is obvious as you have to pass the online test, book a place in what is named "Check-In", book a place in "Piscine" and attempt the best of yours in 30-day of coding so you can get selected. <br />
+The process is taken to attend the school is obvious as you have to pass the online test, book a place in what is named "Check-In", book a place in "Piscine" and attempt the best of yours in the 30-day coding so you can get selected. <br />
 The piscine is a month when you will be learning and doing exercises "Days" that cover the **C Programming Language** and some of the **Shell Scripting**, as well as you will be tested every Friday in an exam where you will be doing exercises related to what you have studied before.
 * Take a look at my Piscine experience [Piscine-2022](https://github.com/amaitou/1337/tree/master/Piscine-2022)
 
@@ -48,7 +48,5 @@ The piscine is a month when you will be learning and doing exercises "Days" that
 ## Contact Me
 
 * [Twitter][_1]
-* [Instagram][_2]
 
 [_1]: https://twitter.com/amait0u
-[_2]: https://www.instagram.com/amait0u
