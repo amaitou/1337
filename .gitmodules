@@ -40,3 +40,6 @@
 [submodule "Cursus/Inception"]
 	path = Cursus/Inception
 	url = git@github.com:amaitou/Inception.git
+[submodule "Cursus/Webserv"]
+	path = Cursus/Webserv
+	url = git@github.com:amaitou/Webserv.git
