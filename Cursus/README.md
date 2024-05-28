@@ -21,9 +21,6 @@ The `curriculum` at 42 starts with the core `curriculum`. This experience sets t
 
 # Validated Projects
 
-| [![amait-ou's 42 stats](https://badge.mediaplus.ma/darkblue/amait-ou)](https://github.com/oakoudad/badge42) |  |
-|:-:|:-:|
-
 > [Libft](https://github.com/amaitou/Libft)
 
 > [ft_printf](https://github.com/amaitou/ft_printf)
