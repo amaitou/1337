@@ -43,3 +43,6 @@
 [submodule "Cursus/Webserv"]
 	path = Cursus/Webserv
 	url = git@github.com:amaitou/Webserv.git
+[submodule "Cursus/PongAPI"]
+	path = Cursus/PongAPI
+	url = git@github.com:amaitou/PongAPI.git
